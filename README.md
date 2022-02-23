@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **c++**
+- 💬 Ask me about **tech**
 
 - 📫 How to reach me **musharrafalam9888@gmail.com**
 
